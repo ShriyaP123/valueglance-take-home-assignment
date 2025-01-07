@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valueglance-take-home-assignment/static/css/main.714e9ee8.css",
+    "main.js": "/valueglance-take-home-assignment/static/js/main.98bcd033.js",
+    "static/js/488.103417aa.chunk.js": "/valueglance-take-home-assignment/static/js/488.103417aa.chunk.js",
+    "index.html": "/valueglance-take-home-assignment/index.html",
+    "main.714e9ee8.css.map": "/valueglance-take-home-assignment/static/css/main.714e9ee8.css.map",
+    "main.98bcd033.js.map": "/valueglance-take-home-assignment/static/js/main.98bcd033.js.map",
+    "488.103417aa.chunk.js.map": "/valueglance-take-home-assignment/static/js/488.103417aa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.714e9ee8.css",
+    "static/js/main.98bcd033.js"
+  ]
+}
