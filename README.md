@@ -1,6 +1,9 @@
 # valueglance-take-home-assignment
 A simple React-based application that displays financial data in a sortable and filterable table. The app uses TailwindCSS for styling.
 
+## Deployed App Link
+http://ShriyaP123.github.io/valueglance-take-home-assignment
+
 ## Prerequisites
 Ensure you have the following installed on your system:
 1) Node.js 
