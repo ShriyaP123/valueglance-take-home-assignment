@@ -12,9 +12,11 @@ Ensure you have the following installed on your system:
     2) cd valueglance-take-home-assignment
 
 2) Install Dependencies=>
-    1) npm install
+    1) cd app
+    2) npm install
 
 ## Running the Project
-1) npm start
+    1) cd app
+    2) npm start
 
 
