@@ -1,0 +1,1 @@
+# valueglance-take-home-assignment
